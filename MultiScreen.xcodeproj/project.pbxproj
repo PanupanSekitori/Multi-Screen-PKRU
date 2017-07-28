@@ -12,6 +12,7 @@
 		C430EC431F2AD7FE0019907F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C430EC411F2AD7FE0019907F /* Main.storyboard */; };
 		C430EC451F2AD7FE0019907F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C430EC441F2AD7FE0019907F /* Assets.xcassets */; };
 		C430EC481F2AD7FE0019907F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C430EC461F2AD7FE0019907F /* LaunchScreen.storyboard */; };
+		C430EC501F2AD9A60019907F /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C430EC4F1F2AD9A60019907F /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C430EC441F2AD7FE0019907F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C430EC471F2AD7FE0019907F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C430EC491F2AD7FE0019907F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C430EC4F1F2AD9A60019907F /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				C430EC3D1F2AD7FE0019907F /* AppDelegate.swift */,
 				C430EC3F1F2AD7FE0019907F /* ViewController.swift */,
 				C430EC411F2AD7FE0019907F /* Main.storyboard */,
+				C430EC4F1F2AD9A60019907F /* SecondViewController.swift */,
 				C430EC441F2AD7FE0019907F /* Assets.xcassets */,
 				C430EC461F2AD7FE0019907F /* LaunchScreen.storyboard */,
 				C430EC491F2AD7FE0019907F /* Info.plist */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C430EC501F2AD9A60019907F /* SecondViewController.swift in Sources */,
 				C430EC401F2AD7FE0019907F /* ViewController.swift in Sources */,
 				C430EC3E1F2AD7FE0019907F /* AppDelegate.swift in Sources */,
 			);
